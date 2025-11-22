@@ -66,7 +66,7 @@ The goal is to analyze Zomato’s worldwide restaurant data and extract insights
 - Overall global average rating is relatively low (**2.67**).
 - Pricing varies significantly depending on region.
 - Online delivery is widely available in countries like **India, UAE, and USA**.
-- Majority of restaurants do **not** support table booking.
+- Majority of restaurants do **not** support table booking
 
 ---
 
